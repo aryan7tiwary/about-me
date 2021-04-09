@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aryan7tiwary
+- 👀 I’m interested in coding java, bash and python
+- 🌱 I’m currently learning penetration testing and few OOP languages.
+- 📫 How to reach me, gmail: aryantiwary10@gmail.com
