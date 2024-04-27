@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Discord-Bot](https://github.com/aryan7tiwary/Discord-bot)
 
-- 🌱 I’m currently learning **IBM Cybersecurity Analyst**
+- 🌱 I’m currently learning **Automation in Cybersecuity using Python**
 
 - 👯 I’m looking to collaborate on **cybersecurity-related projects.**
 
