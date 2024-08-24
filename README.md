@@ -1,22 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 <h3 align="center">A passionate programmer and cybersecurity enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Discord-Bot](https://github.com/aryan7tiwary/Discord-bot)
-
-- 🌱 I’m currently learning **Automation in Cybersecuity using Python**
-
-- 👯 I’m looking to collaborate on **cybersecurity-related projects.**
-
-- 👨‍💻 All of my projects are available at [https://aryan7tiwary.github.io/](https://aryan7tiwary.github.io/)
-
-- 📝 I regularly write articles on [https://aryan7tiwary.github.io/](https://aryan7tiwary.github.io/)
-
-- 💬 Ask me about **CTFs, Security+ and JAVA**
-
-- 📫 How to reach me **aryantiwary10@gmail.com**
-
-- ⚡ Fun fact **I can solve the Rubik's cube.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aryan7tiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan7tiwary" height="30" width="40" /></a>
